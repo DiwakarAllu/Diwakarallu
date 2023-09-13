@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display+&weight=2000&size=18&duration=4000&pause=900&color=D814B6&width=435&lines=Hey+there%2C+Diwakar+here%F0%9F%91%8B%2C+;Exploring+the+digital+cosmos+%F0%9F%9A%80+on+GitHub!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display+&weight=200&size=40&duration=4000&pause=900&color=18A4F7&&width=1000&height=100&lines=Hey+there%2C+Diwakar+here%F0%9F%91%8B%2C+;Exploring+the+digital+cosmos+%F0%9F%9A%80+on+GitHub!+)](https://git.io/typing-svg)
 
 
-![](https://github.com/Diwakarallu/Diwakarallu/blob/main/inquisitive!.png?raw=true)
+![](https://i.ibb.co/pZMf3Yk/inquisitive.png)
 
 As a tech enthusiast, I thrive at the intersection of data science, AI/ML, web development, and cloud computing. My passion lies in crafting data-driven solutions that leverage cutting-edge technologies. With a drive for innovation, I'm dedicated to creating transformative experiences in the digital landscape.
 
