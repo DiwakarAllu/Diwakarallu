@@ -25,6 +25,13 @@ As a tech enthusiast, I thrive at the intersection of data science, AI/ML, web d
   </p>
 
 
+## \_\_GitHub Stats\_\_
+![](https://github-readme-streak-stats.herokuapp.com/?user=Diwakarallu&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarallu&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### \_\_Random Dev Quote\_\_
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
