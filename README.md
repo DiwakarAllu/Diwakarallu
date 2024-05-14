@@ -2,7 +2,7 @@
 
 
 ![](https://i.ibb.co/pZMf3Yk/inquisitive.png)
-
+### _`Kernel of Curiosity, Infinite Loop of Learning`_ ###
 As a tech enthusiast, I thrive at the intersection of data science, AI/ML, web development, and cloud computing. My passion lies in crafting data-driven solutions that leverage cutting-edge technologies. With a drive for innovation, I'm dedicated to creating transformative experiences in the digital landscape.
 
 ## \_\_contact__
