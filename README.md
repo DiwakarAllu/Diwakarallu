@@ -136,5 +136,14 @@ backend profile
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiwakarAllu&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/DiwakarAllu?label=Followers&style=flat-square&color=blue" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
+</p>
+
+
 
 
