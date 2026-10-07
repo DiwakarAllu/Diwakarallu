@@ -107,7 +107,7 @@ backend profile
   - Redis caching, rate limiting, session storage, distributed locks
   - Kafka topics, consumers, producers, retries, dead-letter queues
   - Docker images, Kubernetes manifests, health checks, config management
-  - AWS fundamentals, Linux operations, Git workflows
+  - Azure fundamentals, Linux operations, Git workflows
   - System design, scalability patterns, DSA, performance-aware engineering
 </details>
 
