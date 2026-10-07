@@ -17,11 +17,39 @@ backend profile
 
 
 ## \_\_contact__
-[![Linkedin Badge](https://img.shields.io/badge/-alludiwakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alludiwakar3435)](https://www.linkedin.com/in/alludiwakar3435)
 
-[![Instagram Badge](https://img.shields.io/badge/-allu__diwakar__3435-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/allu_diwakar_3435/)](https://www.instagram.com/allu_diwakar_3435/)
-
-[![Gmail Badge](https://img.shields.io/badge/-diwakar.allu.3435@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diwakar.allu.3435@gmail.com)](mailto:diwakar.allu.3435@gmail.com)
+<div align="left">
+  <table style="border-collapse: collapse; border: 1.5px solid #1e293b; border-radius: 12px; background-color: #0b0f19; width: 100%;">
+    <tr>
+      <td style="padding: 24px; text-align: center;">
+        <p style="color: #9ca3af; font-size: 14.5px; line-height: 1.6; margin-bottom: 22px;">
+          Always open to interesting conversations, collaborations, and opportunities.
+        </p>
+        <p align="center">
+          <a href="https://github.com/DiwakarAllu" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-DiwakarAllu-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/alludiwakar3435/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-alludiwakar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+          <br><br>
+          <a href="https://diwakar-live.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-diwakar--live-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="mailto:diwakar.allu.3435@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-diwakar.allu.3435-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+          <br><br>
+          <a href="https://www.instagram.com/diniverse.allu/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-diniverse.allu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## \_\_technologies__
 
