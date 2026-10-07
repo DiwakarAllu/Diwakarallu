@@ -3,7 +3,18 @@
 
 ![](https://i.ibb.co/pZMf3Yk/inquisitive.png)
 ### _`Kernel of Curiosity, Infinite Loop of Learning`_ ###
-As a tech enthusiast, I thrive at the intersection of data science, AI/ML, web development, and cloud computing. My passion lies in crafting data-driven solutions that leverage cutting-edge technologies. With a drive for innovation, I'm dedicated to creating transformative experiences in the digital landscape.
+I am a backend engineer focused on designing systems that are reliable under load, observable in production, and clean enough for teams to evolve without fear.
+
+```text
+backend profile
+├─ language/runtime       Java, JVM internals, concurrency
+├─ application layer      Spring Boot, REST APIs, validation, security
+├─ data layer             PostgreSQL, Redis, indexing, caching
+├─ distributed systems    Kafka, microservices, orchestration, resilience
+├─ cloud/platform         Docker, Kubernetes, Azure, Linux
+└─ engineering habits     system design, DSA, testing, observability
+```
+
 
 ## \_\_contact__
 [![Linkedin Badge](https://img.shields.io/badge/-alludiwakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alludiwakar3435)](https://www.linkedin.com/in/alludiwakar3435)
@@ -14,11 +25,63 @@ As a tech enthusiast, I thrive at the intersection of data science, AI/ML, web d
 
 ## \_\_technologies__
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" /><br />Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" /><br />Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" /><br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" /><br />Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" height="42" alt="Kafka" /><br />Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /><br />Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" /><br />Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" height="42" alt="Azure" /><br />Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /><br />Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" height="42" alt="IntelliJ IDEA" /><br />IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" /><br />Bash
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Core Backend Capabilities</strong></summary>
+  <br />
+
+  - Java, Spring Boot, Spring MVC, Spring Data JPA, validation, exception handling
+  - REST API design, authentication, authorization, pagination, idempotency
+  - Microservices, service boundaries, API gateways, async messaging
+  - PostgreSQL schema design, indexing, transactions, query optimization
+  - Redis caching, rate limiting, session storage, distributed locks
+  - Kafka topics, consumers, producers, retries, dead-letter queues
+  - Docker images, Kubernetes manifests, health checks, config management
+  - AWS fundamentals, Linux operations, Git workflows
+  - System design, scalability patterns, DSA, performance-aware engineering
+</details>
 
 
 ## \_\_GitHub Stats\_\_
