@@ -85,9 +85,24 @@ backend profile
 
 
 ## \_\_GitHub Stats\_\_
-![](https://github-readme-streak-stats.herokuapp.com/?user=Diwakarallu&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarallu&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Diwakarallu&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Diwakarallu&theme=tokyonight&hide_border=true&border_radius=10"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakarallu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    width="42%"
+  />
+</p>
 
 ### \_\_Random Dev Quote\_\_
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
